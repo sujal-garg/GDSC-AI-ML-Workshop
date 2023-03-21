@@ -1,0 +1,10 @@
+#This file contains the best resources for learning AI/ML/DL:
+
+Websites:
+1. MadeWithML : https://madewithml.com/
+2. Tensorflow Doc: https://www.tensorflow.org/api_docs/python/tf/all_symbols
+3. Keras Docs: https://keras.io/api/
+
+Courses:
+1. A-Z Machine Learning - Udemy
+2. Andrew Ng course - Youtube
